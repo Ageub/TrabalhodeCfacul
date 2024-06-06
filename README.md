@@ -6,4 +6,4 @@ Prints:
 ![Programa3](https://github.com/Ageub/TrabalhodeCfacul/assets/171722017/dc4c7d80-7ced-4a5b-9cc7-0b1b3b6ddbdb)
 ![Programa4](https://github.com/Ageub/TrabalhodeCfacul/assets/171722017/aa5e4e2a-b973-43b8-ba62-f619707e7124)
 ![Programa5](https://github.com/Ageub/TrabalhodeCfacul/assets/171722017/4b9b707d-4d8e-42ea-be83-aac416ecab54)
-![Programa6](https://github.com/Ageub/TrabalhodeCfacul/assets/171722017/c384fd7e-15ca-4e79-9bf5-f863cb82ff5a)
+![Programa6](https://github.com/Ageub/TrabalhodeCfacul/assets/171722017/8c75b017-59c0-4bf9-a731-408503bd01c3)
